@@ -1,41 +1,41 @@
 .contacts {
-    margin-top   : 40px;
+    margin-top   : 50px;
     position     : relative;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 .contacts__wrapper {
     display        : flex;
     flex-wrap      : wrap;
     justify-content: space-between;
-    margin-bottom  : 30px;
+    margin-bottom  : 40px;
 }
 
 .contacts__title {
-    margin-bottom: 30px;
-    color        : #898989;
+    margin-bottom: 40px;
+    color        : #afa3d5;
 }
 
 .contacts__info {
     position: relative;
-    z-index : 10;
+    z-index : 20;
     
 }
 
 .contacts__info-title {
-    font-size     : 22px;
+    font-size     : 24px;
     text-transform: uppercase;
-    margin-bottom : 20px;
+    margin-bottom : 30px;
     color         : #0a84ff;
 }
 
 .contacts__info-subtitle {
     font-size: 18px;
-    color    : #898989;
+    color    : #9bc1e8;
 }
 
 .contacts__info-pic {
-    padding-right: 15px;
+    padding-right: 17px;
 }
 
 .maps__wrapper {
